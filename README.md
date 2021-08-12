@@ -10,4 +10,4 @@
 - 🌱 I’m currently learning Python to make my own Discord Bot alive
 - 📫 For inquiries, you can reach me under [this Email](mailto:tim@fluqzy.eu)
 
-<figure><embed src="https://wakatime.com/share/@6cd64cd7-38f4-4358-a685-365ab5e82c64/ae103759-d9d1-4c59-a25e-1de5d07e668b.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@6cd64cd7-38f4-4358-a685-365ab5e82c64/b6504232-f71b-43af-9bdb-92968b770dce.png" /></a>
