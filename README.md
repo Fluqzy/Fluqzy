@@ -11,10 +11,7 @@
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-      ![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg)
-      ![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
+      ![](https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/overview.svg)
+      ![](https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/languages.svg)
     </p>
 </details>
