@@ -5,9 +5,12 @@
 - 🌱 I’m currently learning Python to make my own Discord Bot alive
 - 📫 For inquiries, you can reach me under [this Email](mailto:tim@fluqzy.eu)
 
-## 🏆 GitHub Trophies
+## ⚡ Technologies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fluqzy&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ## GitHub Statistics :gear:
 ![](https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/overview.svg)
