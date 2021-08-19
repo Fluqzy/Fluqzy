@@ -9,8 +9,8 @@
 
 ## ⚡ Technologies
 
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=GitHub)
 ![Python](https://img.shields.io/badge/-Python-FFDA49?style=flat-square&logo=Python)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
