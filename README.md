@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## 👨🏻‍💻 About me
-- 📚 Student at a High school in Germany
+- 📚 I'm a Student at a High school in Germany
 - 🌱 Currently learning Python to make my own Discord Bot alive
 - 📫 For inquiries, you can reach me under [this Email](mailto:tim@fluqzy.eu)
 
