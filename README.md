@@ -1,3 +1,4 @@
+## Hi there, I'm Samujjwaal 👋🏼👨🏻‍💻
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 👋 Hi, I’m Tim!
@@ -12,6 +13,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-## GitHub Statistics :gear:
+## ⚙️ GitHub Statistics
 ![](https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/languages.svg)
