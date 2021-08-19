@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning Python to make my own Discord Bot alive
 - 📫 For inquiries, you can reach me under [this Email](mailto:tim@fluqzy.eu)
 
-# GitHub Statistics :gear:
+### GitHub Statistics :gear:
 ![](https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/languages.svg)
