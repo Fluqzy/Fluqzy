@@ -1,4 +1,4 @@
-<h2 align="center">Hi 🏼, I'm Fluqzy</h2>
+<h2 align="center">Hi 👋🏻, I'm Fluqzy</h2>
 <h3 align="center">A student, hobby developer and gamer</h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
