@@ -9,7 +9,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fluqzy&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Statistics :gear:
 ![](https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/overview.svg)
