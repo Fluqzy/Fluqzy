@@ -9,6 +9,9 @@
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+  <p align="center">
       <img src="https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/overview.svg">
       <img src="https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/languages.svg">
+  </p>
 </details>
