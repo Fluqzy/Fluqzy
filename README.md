@@ -10,8 +10,6 @@
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
-    <p align="center">
       ![](https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/overview.svg)
       ![](https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/languages.svg)
-    </p>
 </details>
