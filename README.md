@@ -9,6 +9,6 @@
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-      ![](https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/overview.svg)
-      ![](https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/languages.svg)
+      <img src="https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/overview.svg">
+      <img src="https://raw.githubusercontent.com/Fluqzy/github-stats-transparent/output/generated/languages.svg">
 </details>
