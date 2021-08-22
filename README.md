@@ -19,3 +19,4 @@
 
 ## ⚙️ GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fluqzy&show_icons=true&theme=tokyonight)
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fluqzy&layout=compact&show_icons=true&theme=tokyonight)
