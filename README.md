@@ -18,5 +18,4 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ## ⚙️ GitHub Statistics
-![GitHub Overview](https://raw.githubusercontent.com/Fluqzy/GitHub-stats/output/generated/overview.svg)
-![GitHub Languages](https://raw.githubusercontent.com/Fluqzy/GitHub-stats/output/generated/languages.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fluqzy&show_icons=true&theme=tokyonight)
