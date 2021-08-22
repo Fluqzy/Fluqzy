@@ -23,4 +23,4 @@
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fluqzy&layout=compact&show_icons=true&theme=tokyonight)
 
 ## 🌮 Repositorys
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fluqzy&repo=Fluqzy&theme=tokyonight)](https://github.com/Fluqzy/Fluqzy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fluqzy&theme=tokyonight&repo=Fluqzy)](https://github.com/Fluqzy/Fluqzy)
