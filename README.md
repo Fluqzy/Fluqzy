@@ -24,3 +24,4 @@
 
 ## 🌮 Repositorys
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fluqzy&theme=tokyonight&repo=Fluqzy)](https://github.com/Fluqzy/Fluqzy)
+[![Jelly Card](https://github-readme-stats.vercel.app/api/pin/?username=Fluqzy&theme=tokyonight&repo=Jelly)](https://github.com/Fluqzy/Jelly)
