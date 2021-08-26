@@ -83,3 +83,4 @@
 @@||debian.org^
 @@||joyn.de^
 @@||msgpwebcdn.azureedge.net^
+@@||github.com^
