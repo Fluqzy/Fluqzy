@@ -10,7 +10,7 @@
 !   Maintainer: Fluqzy
 !   Homepage: https://fluqzy.eu
 
-!   Whitelist
+![Whitelist]
 @@||fluqzy.eu^
 @@||dns.fluqzy.eu^
 @@||clients4.google.com^
