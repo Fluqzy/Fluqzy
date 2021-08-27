@@ -84,3 +84,4 @@
 @@||joyn.de^
 @@||msgpwebcdn.azureedge.net^
 @@||github.com^
+@@||marketing.net.idealo-partner.com^
