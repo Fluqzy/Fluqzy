@@ -6,7 +6,7 @@
 !
 !   Title: FluqzyList
 !   Syntax: abp
-!   Entries: 72
+!   Entries: 82
 !   Maintainer: Fluqzy
 !   Homepage: https://fluqzy.eu
 
