@@ -8,15 +8,23 @@
 - 🏓 When there is enough time, I'm playing table tennis
 - 📫 For inquiries, you can reach me under [this Email](mailto:tim@fluqzy.eu)
 
-## ⚡ Technologies
-
+## ⚡ Technologies and Tools
+### DevOps & Cloud Technologies
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=GitHub)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FFDA49?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+### Infrastructure & Network Technologies
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-010127?style=flat-square&logo=Debian)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+### Productivity & Communication Tools
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
+![Signal](https://img.shields.io/badge/-Signal-598FF2?style=flat&logo=signal&logoColor=white)
 
 ## ⚙️ GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fluqzy&show_icons=true&theme=tokyonight)
