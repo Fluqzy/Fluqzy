@@ -10,17 +10,17 @@
 
 ## ⚡ Technologies and Tools
 ### DevOps & Cloud Technologies
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=GitHub)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=GitHub&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-FFDA49?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Python](https://img.shields.io/badge/-Python-FFDA49?style=flat&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ### Infrastructure & Network Technologies
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-010127?style=flat-square&logo=Debian)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Debian](https://img.shields.io/badge/-Debian-010127?style=flat&logo=Debian&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)
 
 ### Productivity & Communication Tools
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
