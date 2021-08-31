@@ -4,13 +4,12 @@
 !    ) _)/ (_/) \/ (  O )/ _/ )  // (_/\)(\___ \ )(  
 !   (__) \____\____/\__\(____(__/ \____(__(____/(__) 
 !
-!   Title: FluqzyList
+!   Title: FluqzyList Whitelist
 !   Syntax: abp
 !   Entries: 82
 !   Maintainer: Fluqzy
 !   Homepage: https://fluqzy.eu
 
-![Whitelist]
 ![Fluqzy Services]
 @@||fluqzy.eu^
 @@||cloud.fluqzy.eu^
