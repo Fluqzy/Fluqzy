@@ -6,7 +6,7 @@
 !
 !   Title: FluqzyList Whitelist
 !   Syntax: abp
-!   Entries: 82
+!   Entries: 81
 !   Maintainer: Fluqzy
 !   Homepage: https://fluqzy.eu
 
@@ -80,6 +80,7 @@
 ![Apple Services]
 @@||itunes.apple.com^
 @@||appleid.apple.com^
+@@||idmsa.apple.com^
 @@||captive.apple.com^
 @@||gsp1.apple.com^
 @@||www.apple.com^
