@@ -80,8 +80,6 @@
 ![Apple Services]
 @@||itunes.apple.com^
 @@||appleid.apple.com^
-@@||apple.com^
-@@||icloud.com^
 @@||captive.apple.com^
 @@||gsp1.apple.com^
 @@||www.apple.com^
