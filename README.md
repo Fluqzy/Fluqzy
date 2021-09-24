@@ -22,8 +22,9 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-A22160?style=flat&logo=apache&logoColor=white)
-![NextCloud](https://img.shields.io/badge/-Nextcloud-0068A1?style=flat&logo=nextcloud&logoColor=white)
 ![Bitwarden](https://img.shields.io/badge/-Bitwarden-175DDC?style=flat&logo=bitwarden&logoColor=white)
+![NextCloud](https://img.shields.io/badge/-Nextcloud-0068A1?style=flat&logo=nextcloud&logoColor=white)
+![Portainer](https://img.shields.io/badge/-Portainer-30426A?style=flat&logo=portainer&logoColor=white)
 
 ### Productivity & Communication Tools
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
