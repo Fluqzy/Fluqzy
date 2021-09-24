@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋🏻, I'm Fluqzy</h2>
 <h3 align="center">A student, hobby developer and gamer</h3>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://cdn.fluqzy.eu/attachments/650669848723/845648757974/unknown.gif" width="230">
 
 ## 👨‍💻 About me
 - 📚 I'm a Student at a High school in Germany
 - 🌱 Currently learning Python to make my own Discord Bot alive
-- 🏓 When there is enough time, I'm playing table tennis
+- 🏓 When there is enough time, I'm playing table tennis and maybe one time tennis
 - 📫 For inquiries, you can reach me under [this Email](mailto:tim@fluqzy.eu)
 
 ## ⚡ Technologies and Tools
@@ -22,6 +22,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-A22160?style=flat&logo=apache&logoColor=white)
+<br>
 ![Bitwarden](https://img.shields.io/badge/-Bitwarden-175DDC?style=flat&logo=bitwarden&logoColor=white)
 ![NextCloud](https://img.shields.io/badge/-Nextcloud-0068A1?style=flat&logo=nextcloud&logoColor=white)
 ![Portainer](https://img.shields.io/badge/-Portainer-30426A?style=flat&logo=portainer&logoColor=white)
