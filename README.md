@@ -25,6 +25,7 @@
 ![Bitwarden](https://img.shields.io/badge/-Bitwarden-175DDC?style=flat&logo=bitwarden&logoColor=white)
 ![NextCloud](https://img.shields.io/badge/-Nextcloud-0068A1?style=flat&logo=nextcloud&logoColor=white)
 ![Portainer](https://img.shields.io/badge/-Portainer-30426A?style=flat&logo=portainer&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Productivity & Communication Tools
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
