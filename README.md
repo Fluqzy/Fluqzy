@@ -39,4 +39,4 @@
 ## 🌮 Repositorys
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fluqzy&theme=tokyonight&repo=Fluqzy)](https://github.com/Fluqzy/Fluqzy)
 [![FluqzyList Card](https://github-readme-stats.vercel.app/api/pin/?username=Fluqzy&theme=tokyonight&repo=FluqzyList)](https://github.com/Fluqzy/FluqzyList)
-[![Jelly Card](https://github-readme-stats.vercel.app/api/pin/?username=Fluqzy&theme=tokyonight&repo=Jelly)](https://github.com/Fluqzy/Jelly)
+[![Crambly Card](https://github-readme-stats.vercel.app/api/pin/?username=Fluqzy&theme=tokyonight&repo=Crambly)](https://github.com/Fluqzy/Crambly)
