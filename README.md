@@ -38,4 +38,5 @@
 
 ## 🌮 Repositorys
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fluqzy&theme=tokyonight&repo=Fluqzy)](https://github.com/Fluqzy/Fluqzy)
+[![Website Card](https://github-readme-stats.vercel.app/api/pin/?username=Fluqzy&theme=tokyonight&repo=Website)](https://github.com/Fluqzy/Website)
 [![FluqzyList Card](https://github-readme-stats.vercel.app/api/pin/?username=Fluqzy&theme=tokyonight&repo=FluqzyList)](https://github.com/Fluqzy/FluqzyList)
