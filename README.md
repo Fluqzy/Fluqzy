@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋🏻, I'm Fluqzy</h2>
 <h3 align="center">A student, hobby developer and gamer</h3>
-<img align='right' src="https://cdn.fluqzy.eu/attachments/650669848723/845648757974/unknown.gif" width="230">
 
 ## 👨‍💻 About me
 - 📚 I'm a Student at a High school in Germany
