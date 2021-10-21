@@ -34,8 +34,3 @@
 ## ⚙️ GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fluqzy&show_icons=true&theme=tokyonight)
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fluqzy&layout=compact&show_icons=true&theme=tokyonight)
-
-## 🌮 Repositorys
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fluqzy&theme=tokyonight&repo=Fluqzy)](https://github.com/Fluqzy/Fluqzy)
-[![Website Card](https://github-readme-stats.vercel.app/api/pin/?username=Fluqzy&theme=tokyonight&repo=Website)](https://github.com/Fluqzy/Website)
-[![FluqzyList Card](https://github-readme-stats.vercel.app/api/pin/?username=Fluqzy&theme=tokyonight&repo=FluqzyList)](https://github.com/Fluqzy/FluqzyList)
