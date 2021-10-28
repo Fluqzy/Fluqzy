@@ -10,8 +10,10 @@
 ## ⚡ Technologies and Tools
 ### DevOps & Cloud Technologies
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=GitHub&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F2704D?style=flat&logo=Git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FFDA49?style=flat&logo=Python&logoColor=white)
+<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
