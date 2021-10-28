@@ -34,6 +34,3 @@
 ## ⚙️ GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fluqzy&show_icons=true&theme=tokyonight)
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fluqzy&show_icons=true&theme=tokyonight)
-
-## Organisation
-[![TactyBot Card](https://github-readme-stats.vercel.app/api/pin/?username=Tactybot&repo=Tacty)](https://github.com/Tactybot/Tacty)
