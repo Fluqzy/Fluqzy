@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About me
 - 📚 I'm a Student at a High school in Germany
-- 🌱 Currently learning Python to make my own Discord Bot alive
+- 🌱 Currently learning Java-/Typescript to make my own Discord Bot alive
 - 🏓 When there is enough time, I'm playing table tennis and maybe one time tennis
 - 📫 For inquiries, you can reach me under [this Email](mailto:tim@fluqzy.eu)
 
