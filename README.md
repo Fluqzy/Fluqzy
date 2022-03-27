@@ -36,3 +36,6 @@
 ## ⚙️ GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fluqzy&show_icons=true&theme=tokyonight)
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fluqzy&show_icons=true&theme=tokyonight)
+
+
+<iframe src="https://canary.discord.com/widget?id=790676703675809823&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
