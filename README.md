@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About me
 - 📚 I'm a Student at a High school in Germany
-- 🌱 Currently learning Java/Pythob to grow up the [Tacty Organisation](https://github.com/TactyORG)
+- 🌱 Currently learning Python to grow up the [Tacty Organisation](https://github.com/TactyORG)
 - 🏓 When there is enough time, I'm playing table tennis and maybe one time tennis
 - 📫 For inquiries, you can reach me under [this Email](mailto:tim@fluqzy.eu)
 
