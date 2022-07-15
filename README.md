@@ -1,39 +1,17 @@
-<h2 align="center">Hi 👋🏼, I'm Fluqzy</h2>
-<h3 align="center">A student, hobby developer and gamer</h3>
+Hi 👋 My name is Fluqzy
+=======================* 🌍  I'm based in Germany* 🖥️  See my portfolio at [fluqzy.eu](http://fluqzy.eu)* ✉️  You can contact me at [tim@fluqzy.eu](mailto:tim@fluqzy.eu)* 🧠  I'm learning Golang* ⚡  Currently a student at a high school
 
-## 👨‍💻 About me
-- 📚 I'm a Student at a High school in Germany
-- 🌱 Currently learning Python to grow up the [Tacty Organisation](https://github.com/TactyORG)
-- 🏓 When there is enough time, I'm playing table tennis and maybe one time tennis
-- 📫 For inquiries, you can reach me under [this Email](mailto:tim@fluqzy.eu)
+### Skills
 
-## ⚡ Technologies and Tools
-### DevOps & Cloud Technologies
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=GitHub&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F2704D?style=flat&logo=Git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-FFDA49?style=flat&logo=Python&logoColor=white)
-<br>
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+<p align="left"><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a></p>
+### Socials<p align="left"> <a href="https://discord.com/users/424970726219579392" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Fluqzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/fluqzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/fluqzyde" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UC70Fk-LCXngfNlhQVAARGnA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/fluqzyde" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### Infrastructure & Network Technologies
-![Debian](https://img.shields.io/badge/-Debian-010127?style=flat&logo=Debian&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-A22160?style=flat&logo=apache&logoColor=white)
-<br>
-![Bitwarden](https://img.shields.io/badge/-Bitwarden-175DDC?style=flat&logo=bitwarden&logoColor=white)
-![NextCloud](https://img.shields.io/badge/-Nextcloud-0068A1?style=flat&logo=nextcloud&logoColor=white)
-![Portainer](https://img.shields.io/badge/-Portainer-30426A?style=flat&logo=portainer&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+### Badges
 
-### Productivity & Communication Tools
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
-![Signal](https://img.shields.io/badge/-Signal-598FF2?style=flat&logo=signal&logoColor=white)
+<b>My GitHub Stats</b>
 
-## ⚙️ GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fluqzy&show_icons=true&theme=tokyonight)
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fluqzy&show_icons=true&theme=tokyonight)
+<a href="http://www.github.com/Fluqzy"><img src="https://github-readme-stats.vercel.app/api?username=Fluqzy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Fluqzy's GitHub stats" /></a>
 
+<a href="http://www.github.com/Fluqzy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fluqzy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Fluqzy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluqzy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
